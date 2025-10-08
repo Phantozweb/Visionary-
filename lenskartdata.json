@@ -1,0 +1,1988 @@
+[
+    {
+        "productName": "Lenskart Hustlr",
+        "productModelName": "LA E15417-W",
+        "classification": "eyeframe",
+        "variations": [
+            {
+                "id": 216521,
+                "color": "#0000ff",
+                "glassColor": "",
+                "colorID": 27638,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/216521_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15415-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/216521/ios/sku_216521.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/216521/android/sku_216521.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e15417-w-c1-eyeglasses_csvfile-1701688526805-img_7894.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e15417-w-c1-eyeglasses_csvfile-1701688526805-img_7894.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e15417-w-c1-eyeglasses_csvfile-1701688526805-img_7894.jpg"
+                }
+            },
+            {
+                "id": 233091,
+                "color": "#ee7600",
+                "glassColor": "",
+                "colorID": 15168,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/233091_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-amber-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/orange-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc3403_20_05_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/orange-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc3403_20_05_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/orange-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc3403_20_05_2025.jpg"
+                }
+            },
+            {
+                "id": 219074,
+                "color": "#9b2743",
+                "glassColor": "",
+                "colorID": 26084,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/219074_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-c37-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/219074/ios/sku_219074.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/219074/android/sku_219074.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c37-eyeglasses__dsc4437_24_05_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c37-eyeglasses__dsc4437_24_05_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c37-eyeglasses__dsc4437_24_05_2024.jpg"
+                }
+            },
+            {
+                "id": 219072,
+                "color": "#012169",
+                "glassColor": "",
+                "colorID": 27639,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/219072_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-c36-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/219072/ios/sku_219072.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/219072/android/sku_219072.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c36-eyeglasses__dsc4426_24_05_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c36-eyeglasses__dsc4426_24_05_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c36-eyeglasses__dsc4426_24_05_2024.jpg"
+                }
+            },
+            {
+                "id": 231943,
+                "color": "#f1f1f1",
+                "glassColor": "",
+                "colorID": 27842,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/231943_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-frost-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/231943/ios/sku_231943.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/231943/android/sku_231943.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/frost-full-rim-square-lenskart-hustlr-air-la-e15417-xw-eyeglasses_dsc3637_9_12_12_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/frost-full-rim-square-lenskart-hustlr-air-la-e15417-xw-eyeglasses_dsc3637_9_12_12_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/frost-full-rim-square-lenskart-hustlr-air-la-e15417-xw-eyeglasses_dsc3637_9_12_12_2024.jpg"
+                }
+            },
+            {
+                "id": 219271,
+                "color": "#BE4123",
+                "glassColor": "",
+                "colorID": 26841,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/219271_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e-15417-w-c8-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/219271/ios/sku_219271.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/219271/android/sku_219271.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-block-phone-computer-glasses:-blaze-full-rim-square-lenskart-hustlr-lb-e14058-w-c6_dsc_082630march24.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-block-phone-computer-glasses:-blaze-full-rim-square-lenskart-hustlr-lb-e14058-w-c6_dsc_082630march24.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-block-phone-computer-glasses:-blaze-full-rim-square-lenskart-hustlr-lb-e14058-w-c6_dsc_082630march24.jpg"
+                }
+            },
+            {
+                "id": 233093,
+                "color": "#800080",
+                "glassColor": "",
+                "colorID": 11537,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/233093_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-violet-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/purple-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc3343_20_05_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/purple-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc3343_20_05_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/purple-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc3343_20_05_2025.jpg"
+                }
+            },
+            {
+                "id": 233092,
+                "color": "#ffff00",
+                "glassColor": "",
+                "colorID": 15168,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/233092_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-n-amber-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/233092/ios/sku_233092.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/233092/android/sku_233092.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-n-amber-eyeglasses__dsc7657_02_01_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-n-amber-eyeglasses__dsc7657_02_01_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-n-amber-eyeglasses__dsc7657_02_01_2025.jpg"
+                }
+            },
+            {
+                "id": 226315,
+                "color": "#7d55c7",
+                "glassColor": "",
+                "colorID": 15770,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/226315_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-c5-dup-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 750,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/206827/ios/sku_206827.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/206827/android/sku_206827.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-amethyst-full-rim-hustlr-eyeglasses__g_7838_24_12_202230_dec22.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-amethyst-full-rim-hustlr-eyeglasses__g_7838_24_12_202230_dec22.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-amethyst-full-rim-hustlr-eyeglasses__g_7838_24_12_202230_dec22.jpg"
+                }
+            },
+            {
+                "id": 216522,
+                "color": "#4f42b5",
+                "glassColor": "",
+                "colorID": 27638,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/216522_bubble.png",
+                "productURL": "/lenskart-la-e15417-n-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/216522/ios/sku_216522.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/216522/android/sku_216522.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-ocean-blue-full-rim-square_csvfile-1706011116745-img_0449.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-ocean-blue-full-rim-square_csvfile-1706011116745-img_0449.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-ocean-blue-full-rim-square_csvfile-1706011116745-img_0449.jpg"
+                }
+            },
+            {
+                "id": 234697,
+                "color": "#BE4123",
+                "glassColor": "",
+                "colorID": 26841,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234697_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e-15417-w-c8-dup3-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 750,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/219271/ios/sku_219271.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/219271/android/sku_219271.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-block-phone-computer-glasses:-blaze-full-rim-square-lenskart-hustlr-lb-e14058-w-c6_dsc_082630march24.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-block-phone-computer-glasses:-blaze-full-rim-square-lenskart-hustlr-lb-e14058-w-c6_dsc_082630march24.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-block-phone-computer-glasses:-blaze-full-rim-square-lenskart-hustlr-lb-e14058-w-c6_dsc_082630march24.jpg"
+                }
+            },
+            {
+                "id": 234696,
+                "color": "#1D3C34",
+                "glassColor": "",
+                "colorID": 14799,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234696_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417xp-c15-dup3-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/208272/ios/sku_208272.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/208272/android/sku_208272.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/military-green-full-rim-square-air-essentials-la-e15417-w-c11-eyeglasses_208272-2.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/military-green-full-rim-square-air-essentials-la-e15417-w-c11-eyeglasses_208272-2.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/military-green-full-rim-square-air-essentials-la-e15417-w-c11-eyeglasses_208272-2.jpg"
+                }
+            },
+            {
+                "id": 219272,
+                "color": "#e25822",
+                "glassColor": "",
+                "colorID": 26851,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/219272_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-www-c9-eyeglass.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/219272/ios/sku_219272.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/219272/android/sku_219272.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-block-phone-computer-glasses:-flame-full-rim-square-lenskart-hustlr-lb-e14058-w-c7_dsc_083830march24.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-block-phone-computer-glasses:-flame-full-rim-square-lenskart-hustlr-lb-e14058-w-c7_dsc_083830march24.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-block-phone-computer-glasses:-flame-full-rim-square-lenskart-hustlr-lb-e14058-w-c7_dsc_083830march24.jpg"
+                }
+            },
+            {
+                "id": 224783,
+                "color": "#ffddee",
+                "glassColor": "",
+                "colorID": 27451,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/224783_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-w-c10-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/224783/ios/sku_224783.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/224783/android/sku_224783.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-w-c11-eyeglasses__dsc8452_224783.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-w-c11-eyeglasses__dsc8452_224783.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-w-c11-eyeglasses__dsc8452_224783.jpg"
+                }
+            },
+            {
+                "id": 212815,
+                "color": "#00ff00",
+                "glassColor": "",
+                "colorID": 26211,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212815_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-c21-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/212815/ios/sku_212815.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/212815/android/sku_212815.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/jade-green-full-rim-square-lenskart-air-essentials-la-e15417-c21-eyeglasses_g_1150_09_08_23.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/jade-green-full-rim-square-lenskart-air-essentials-la-e15417-c21-eyeglasses_g_1150_09_08_23.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/jade-green-full-rim-square-lenskart-air-essentials-la-e15417-c21-eyeglasses_g_1150_09_08_23.jpg"
+                }
+            },
+            {
+                "id": 224781,
+                "color": "#ffddee",
+                "glassColor": "",
+                "colorID": 27451,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/224781_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-c38-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/224781/ios/sku_224781.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/224781/android/sku_224781.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c38-eyeglasses__dsc8452_224781.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c38-eyeglasses__dsc8452_224781.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c38-eyeglasses__dsc8452_224781.jpg"
+                }
+            },
+            {
+                "id": 226321,
+                "color": "#ffc0cb",
+                "glassColor": "",
+                "colorID": 26661,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/226321_bubble.png",
+                "productURL": "/lenskart-la-e15417-w-c7-dup-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 750,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/216712/ios/sku_216712.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/216712/android/sku_216712.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/flamingo-full-rim-square-lenskart-air-hustlr-la-e15417-w-c3-eyeglasses_csvfile-1706513126187-img_7914.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/flamingo-full-rim-square-lenskart-air-hustlr-la-e15417-w-c3-eyeglasses_csvfile-1706513126187-img_7914.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/flamingo-full-rim-square-lenskart-air-hustlr-la-e15417-w-c3-eyeglasses_csvfile-1706513126187-img_7914.jpg"
+                }
+            },
+            {
+                "id": 212817,
+                "color": "#918E85",
+                "glassColor": "",
+                "colorID": 27962,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212817_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-c23-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/212817/ios/sku_212817.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/212817/android/sku_212817.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/greystone-full-rim-square-lenskart-air-essentials-la-e15417-c23-eyeglasses_csvfile-1694180757181-g_1173.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/greystone-full-rim-square-lenskart-air-essentials-la-e15417-c23-eyeglasses_csvfile-1694180757181-g_1173.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/greystone-full-rim-square-lenskart-air-essentials-la-e15417-c23-eyeglasses_csvfile-1694180757181-g_1173.jpg"
+                }
+            },
+            {
+                "id": 224784,
+                "color": "#ffddee",
+                "glassColor": "",
+                "colorID": 27451,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/224784_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-n-c9-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/224784/ios/sku_224784.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/224784/android/sku_224784.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-n-c9-eyeglasses__dsc8452_224784.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-n-c9-eyeglasses__dsc8452_224784.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-n-c9-eyeglasses__dsc8452_224784.jpg"
+                }
+            },
+            {
+                "id": 212816,
+                "color": "#c3d7ee",
+                "glassColor": "",
+                "colorID": 27961,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212816_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-c22-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/212816/ios/sku_212816.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/212816/android/sku_212816.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-sky-full-rim-square-lenskart-air-essentials-la-e15417-c22-eyeglasses_csvfile-1694180673096-g_1163.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-sky-full-rim-square-lenskart-air-essentials-la-e15417-c22-eyeglasses_csvfile-1694180673096-g_1163.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-sky-full-rim-square-lenskart-air-essentials-la-e15417-c22-eyeglasses_csvfile-1694180673096-g_1163.jpg"
+                }
+            },
+            {
+                "id": 234708,
+                "color": "#30d5c8",
+                "glassColor": "",
+                "colorID": 15850,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234708_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-w-c33-dup3-eyeglass.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/217446/ios/sku_217446.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/217446/android/sku_217446.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-w-c33-eyeglasses_img_2531_22_02_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-w-c33-eyeglasses_img_2531_22_02_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-w-c33-eyeglasses_img_2531_22_02_2024.jpg"
+                }
+            },
+            {
+                "id": 234715,
+                "color": "#0000ff",
+                "glassColor": "",
+                "colorID": 27638,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234715_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15415-c1-dup3-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/216521/ios/sku_216521.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/216521/android/sku_216521.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e15417-w-c1-eyeglasses_csvfile-1701688526805-img_7894.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e15417-w-c1-eyeglasses_csvfile-1701688526805-img_7894.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e15417-w-c1-eyeglasses_csvfile-1701688526805-img_7894.jpg"
+                }
+            },
+            {
+                "id": 234714,
+                "color": "#918E85",
+                "glassColor": "",
+                "colorID": 27962,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234714_bubble.png",
+                "productURL": "/lenskart-air-la-e15417-c20-dup3-eye.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/208956/ios/sku_208956.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/208956/android/sku_208956.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-stone-full-rim-square-lenskart-hustlr-la-e15417-w-c26-eyeglasses_g_3295_30_07_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-stone-full-rim-square-lenskart-hustlr-la-e15417-w-c26-eyeglasses_g_3295_30_07_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-stone-full-rim-square-lenskart-hustlr-la-e15417-w-c26-eyeglasses_g_3295_30_07_2024.jpg"
+                }
+            },
+            {
+                "id": 217433,
+                "color": "#00ff00",
+                "glassColor": "",
+                "colorID": 26721,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/217433_bubble.png",
+                "productURL": "/lenskart-air-la-e15417-xwc1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/217433/ios/sku_217433.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/217433/android/sku_217433.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-electric-green-full-rim-square-lenskart-hustlr-eyeglasses_csvfile-1706676942429-217433_(2).jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-electric-green-full-rim-square-lenskart-hustlr-eyeglasses_csvfile-1706676942429-217433_(2).jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-electric-green-full-rim-square-lenskart-hustlr-eyeglasses_csvfile-1706676942429-217433_(2).jpg"
+                }
+            },
+            {
+                "id": 217432,
+                "color": "#00ff00",
+                "glassColor": "",
+                "colorID": 26721,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/217432_bubble.png",
+                "productURL": "/lenskart-air-la-e15417-nc6-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/217432/ios/sku_217432.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/217432/android/sku_217432.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-electric-green-full-rim-square_csvfile-1706676748703-217432_(2).jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-electric-green-full-rim-square_csvfile-1706676748703-217432_(2).jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-electric-green-full-rim-square_csvfile-1706676748703-217432_(2).jpg"
+                }
+            },
+            {
+                "id": 226335,
+                "color": "#30d5c8",
+                "glassColor": "",
+                "colorID": 15850,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/226335_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-w-c33-dup-eyeglass.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/217446/ios/sku_217446.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/217446/android/sku_217446.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-turquoise-full-rim-lenskart-hustlr-eyeglasses_csvfile-1709208314345-img_2531.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-turquoise-full-rim-lenskart-hustlr-eyeglasses_csvfile-1709208314345-img_2531.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-turquoise-full-rim-lenskart-hustlr-eyeglasses_csvfile-1709208314345-img_2531.jpg"
+                }
+            },
+            {
+                "id": 234717,
+                "color": "#ffddee",
+                "glassColor": "",
+                "colorID": 27451,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234717_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-w-c10-dup3-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/224783/ios/sku_224783.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/224783/android/sku_224783.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-w-c11-eyeglasses__dsc8452_224783.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-w-c11-eyeglasses__dsc8452_224783.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-w-c11-eyeglasses__dsc8452_224783.jpg"
+                }
+            },
+            {
+                "id": 217447,
+                "color": "#30d5c8",
+                "glassColor": "",
+                "colorID": 15850,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/217447_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-c34-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/217447/ios/sku_217447.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/217447/android/sku_217447.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/turquoise-full-rim-square-lenskart-hustlr-la-e15417-xw-c34-eyeglasses_img_0271_27_02_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/turquoise-full-rim-square-lenskart-hustlr-la-e15417-xw-c34-eyeglasses_img_0271_27_02_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/turquoise-full-rim-square-lenskart-hustlr-la-e15417-xw-c34-eyeglasses_img_0271_27_02_2025.jpg"
+                }
+            },
+            {
+                "id": 217445,
+                "color": "#30d5c8",
+                "glassColor": "",
+                "colorID": 15850,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/217445_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-n-c29-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/217445/ios/sku_217445.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/217445/android/sku_217445.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/turquoise-full-rim-square-lenskart-hustlr-la-e15417-n-c29-eyeglasses_img_2550_27_02_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/turquoise-full-rim-square-lenskart-hustlr-la-e15417-n-c29-eyeglasses_img_2550_27_02_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/turquoise-full-rim-square-lenskart-hustlr-la-e15417-n-c29-eyeglasses_img_2550_27_02_2025.jpg"
+                }
+            },
+            {
+                "id": 234725,
+                "color": "#DCAE96",
+                "glassColor": "",
+                "colorID": 26831,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234725_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-w-c9-dup3-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 750,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/218225/ios/sku_218225.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/218225/android/sku_218225.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-dusty-rose-full-rim-square_csvfile-1709039414872-img_9794.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-dusty-rose-full-rim-square_csvfile-1709039414872-img_9794.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-dusty-rose-full-rim-square_csvfile-1709039414872-img_9794.jpg"
+                }
+            },
+            {
+                "id": 206827,
+                "color": "#7d55c7",
+                "glassColor": "",
+                "colorID": 15770,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206827_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-c5-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/206827/ios/sku_206827.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/206827/android/sku_206827.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/amethyst-full-rim-square-air-essentials-la-e15417-w-c5-eyeglasses_g_7838_27_02_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/amethyst-full-rim-square-air-essentials-la-e15417-w-c5-eyeglasses_g_7838_27_02_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/amethyst-full-rim-square-air-essentials-la-e15417-w-c5-eyeglasses_g_7838_27_02_2025.jpg"
+                }
+            },
+            {
+                "id": 234671,
+                "color": "#ee7600",
+                "glassColor": "",
+                "colorID": 26841,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234671_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-blaze-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/amber-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc7480_30_06_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/amber-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc7480_30_06_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/amber-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc7480_30_06_2025.jpg"
+                }
+            },
+            {
+                "id": 218222,
+                "color": "#00ff00",
+                "glassColor": "",
+                "colorID": 14799,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/218222_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-c2-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/218222/ios/sku_218222.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/218222/android/sku_218222.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-military-green-full-rim-square_csvfile-1710414972953-img_9803.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-military-green-full-rim-square_csvfile-1710414972953-img_9803.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-military-green-full-rim-square_csvfile-1710414972953-img_9803.jpg"
+                }
+            },
+            {
+                "id": 218221,
+                "color": "#00ff00",
+                "glassColor": "",
+                "colorID": 14799,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/218221_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-n-c7-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/218221/ios/sku_218221.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/218221/android/sku_218221.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-military-green-full-rim-lenskart-hustlr-eyeglasses_csvfile-1710308029821-img_1155.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-military-green-full-rim-lenskart-hustlr-eyeglasses_csvfile-1710308029821-img_1155.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-military-green-full-rim-lenskart-hustlr-eyeglasses_csvfile-1710308029821-img_1155.jpg"
+                }
+            },
+            {
+                "id": 212973,
+                "color": "#00ff00",
+                "glassColor": "",
+                "colorID": 26211,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212973_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-s-c3-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/212973/ios/sku_212973.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/212973/android/sku_212973.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-full-rim-square-lenskart-air-essentials-la-e15417--s-c3-eyeglasses_g_8252_image_pla_05_10_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-full-rim-square-lenskart-air-essentials-la-e15417--s-c3-eyeglasses_g_8252_image_pla_05_10_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-full-rim-square-lenskart-air-essentials-la-e15417--s-c3-eyeglasses_g_8252_image_pla_05_10_2023.jpg"
+                }
+            },
+            {
+                "id": 212972,
+                "color": "#918E85",
+                "glassColor": "",
+                "colorID": 27962,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212972_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-s-c2-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/212972/ios/sku_212972.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/212972/android/sku_212972.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-stone-full-rim-square-air-essentials-la-e15417-n-c2-eyeglasses_g_8285_27_02_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-stone-full-rim-square-air-essentials-la-e15417-n-c2-eyeglasses_g_8285_27_02_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-stone-full-rim-square-air-essentials-la-e15417-n-c2-eyeglasses_g_8285_27_02_2025.jpg"
+                }
+            },
+            {
+                "id": 234674,
+                "color": "#00ff00",
+                "glassColor": "",
+                "colorID": 27970,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234674_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-n-blue-lagoon-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3331_20_05_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3331_20_05_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3331_20_05_2025.jpg"
+                }
+            },
+            {
+                "id": 234672,
+                "color": "#ee7600",
+                "glassColor": "",
+                "colorID": 26841,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234672_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-n-blaze-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/orange-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3319_20_05_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/orange-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3319_20_05_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/orange-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3319_20_05_2025.jpg"
+                }
+            },
+            {
+                "id": 234679,
+                "color": "#ff0000",
+                "glassColor": "",
+                "colorID": 26851,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234679_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-flame-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/red-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc5300_17_06_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/red-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc5300_17_06_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/red-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc5300_17_06_2025.jpg"
+                }
+            },
+            {
+                "id": 215926,
+                "color": "#202A44",
+                "glassColor": "",
+                "colorID": 27920,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/215926_bubble.png",
+                "productURL": "/lenskart-la-e15417-n-c28-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/215926/ios/sku_215926.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/215926/android/sku_215926.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/navy-full-rim-square-lenskart-hustlr-la-e15417-n-c28-eyeglasses__dsc3111_14_09_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/navy-full-rim-square-lenskart-hustlr-la-e15417-n-c28-eyeglasses__dsc3111_14_09_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/navy-full-rim-square-lenskart-hustlr-la-e15417-n-c28-eyeglasses__dsc3111_14_09_2024.jpg"
+                }
+            },
+            {
+                "id": 234677,
+                "color": "#ffc0cb",
+                "glassColor": "",
+                "colorID": 27637,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234677_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-dusky-mauve-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/rose-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc3367_20_05_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/rose-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc3367_20_05_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/rose-full-rim-square-lenskart-hustlr-la-e15417-xw-eyeglasses__dsc3367_20_05_2025.jpg"
+                }
+            },
+            {
+                "id": 234676,
+                "color": "#0000ff",
+                "glassColor": "",
+                "colorID": 26261,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234676_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-n-caribbean-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3308_20_05_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3308_20_05_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3308_20_05_2025.jpg"
+                }
+            },
+            {
+                "id": 234682,
+                "color": "#ffff00",
+                "glassColor": "",
+                "colorID": 26082,
+                "frameColorImage": "",
+                "productURL": "/lenskart-hustlr-la-e15417-n-sand-dune-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/yellow-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3355_20_05_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/yellow-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3355_20_05_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/yellow-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3355_20_05_2025.jpg"
+                }
+            },
+            {
+                "id": 234680,
+                "color": "#ff0000",
+                "glassColor": "",
+                "colorID": 26851,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234680_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-n-flame-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/red-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3379_20_05_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/red-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3379_20_05_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/red-full-rim-square-lenskart-hustlr-la-e15417-n-eyeglasses__dsc3379_20_05_2025.jpg"
+                }
+            },
+            {
+                "id": 208952,
+                "color": "#c5dcc2",
+                "glassColor": "",
+                "colorID": 26211,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/208952_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-c13-n-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/208952/ios/sku_208952.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/208952/android/sku_208952.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/jade-green-full-rim-square-air-essentials-la-e15417-w-c16-eyeglasses_g_7644_27_02_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/jade-green-full-rim-square-air-essentials-la-e15417-w-c16-eyeglasses_g_7644_27_02_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/jade-green-full-rim-square-air-essentials-la-e15417-w-c16-eyeglasses_g_7644_27_02_2025.jpg"
+                }
+            },
+            {
+                "id": 226303,
+                "color": "#202A44",
+                "glassColor": "",
+                "colorID": 27920,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/226303_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-c14-dup-eye.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/208951/ios/sku_208951.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/208951/android/sku_208951.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/navy-full-rim-square-lenskart-hustlr-la-e15417-n-c16-eyeglasses_g_0712_30_07_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/navy-full-rim-square-lenskart-hustlr-la-e15417-n-c16-eyeglasses_g_0712_30_07_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/navy-full-rim-square-lenskart-hustlr-la-e15417-n-c16-eyeglasses_g_0712_30_07_2024.jpg"
+                }
+            },
+            {
+                "id": 234750,
+                "color": "#7d55c7",
+                "glassColor": "",
+                "colorID": 15770,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234750_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-c5-dup3-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 750,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/206827/ios/sku_206827.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/206827/android/sku_206827.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-amethyst-full-rim-hustlr-eyeglasses__g_7838_24_12_202230_dec22.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-amethyst-full-rim-hustlr-eyeglasses__g_7838_24_12_202230_dec22.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/peyush-bansal-shark-tank-amethyst-full-rim-hustlr-eyeglasses__g_7838_24_12_202230_dec22.jpg"
+                }
+            },
+            {
+                "id": 219069,
+                "color": "#7d55c7",
+                "glassColor": "",
+                "colorID": 15770,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/219069_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-xw-c35-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/219069/ios/sku_219069.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/219069/android/sku_219069.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c35-eyeglasses__dsc4416_24_05_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c35-eyeglasses__dsc4416_24_05_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-xw-c35-eyeglasses__dsc4416_24_05_2024.jpg"
+                }
+            },
+            {
+                "id": 219068,
+                "color": "#7d55c7",
+                "glassColor": "",
+                "colorID": 15770,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/219068_bubble.png",
+                "productURL": "/lenskart-hustlr-la-e15417-n-c30-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 2000,
+                    "lkPrice": 500,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/219068/ios/sku_219068.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/219068/android/sku_219068.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-n-c30-eyeglasses__dsc7035_20_06_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-n-c30-eyeglasses__dsc7035_20_06_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-hustlr-la-e15417-n-c30-eyeglasses__dsc7035_20_06_2024.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "productName": "Lenskart Air",
+        "productModelName": "LA E13068",
+        "classification": "eyeframe",
+        "variations": [
+            {
+                "id": 137971,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 11378,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/137971_bubble.png",
+                "productURL": "/lenskart-air-la-e13032-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/137971/ios/sku_137971.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/137971/android/sku_137971.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-gunmetal-black-full-rim-wayfarer-lenskart-air-fusion-la-e13068---c1-eyeglasses_lenskart-air-la-e13032-c1-eyeglasses_g_2000_05_july23.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-gunmetal-black-full-rim-wayfarer-lenskart-air-fusion-la-e13068---c1-eyeglasses_lenskart-air-la-e13032-c1-eyeglasses_g_2000_05_july23.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-gunmetal-black-full-rim-wayfarer-lenskart-air-fusion-la-e13068---c1-eyeglasses_lenskart-air-la-e13032-c1-eyeglasses_g_2000_05_july23.jpg"
+                }
+            },
+            {
+                "id": 201333,
+                "color": "#c0c0c0",
+                "glassColor": "",
+                "colorID": 22295,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201333_bubble.png",
+                "productURL": "/lenskart-air-la-e13068-c6-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/201333/ios/sku_201333.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/201333/android/sku_201333.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e13068-c6-eyeglasses_g_4836_03_03_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e13068-c6-eyeglasses_g_4836_03_03_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e13068-c6-eyeglasses_g_4836_03_03_2023.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "productName": "Lenskart Air",
+        "productModelName": "LA E17017",
+        "classification": "eyeframe",
+        "variations": []
+    },
+    {
+        "productName": "Lenskart STUDIO",
+        "productModelName": "LK E17250",
+        "classification": "eyeframe",
+        "variations": []
+    },
+    {
+        "productName": "John Jacobs",
+        "productModelName": "JJ E10235",
+        "classification": "eyeframe",
+        "variations": []
+    },
+    {
+        "productName": "John Jacobs",
+        "productModelName": "JJ E11540",
+        "classification": "eyeframe",
+        "variations": [
+            {
+                "id": 201389,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 11378,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201389_bubble.png",
+                "productURL": "/john-jacobs-jj-e11540-c7-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 4900,
+                    "lkPrice": 4900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/201389/ios/sku_201389.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/201389/android/sku_201389.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gold-black-tortoise-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540-c7-eyeglasses_g_2732_11_10_2022.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gold-black-tortoise-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540-c7-eyeglasses_g_2732_11_10_2022.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gold-black-tortoise-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540-c7-eyeglasses_g_2732_11_10_2022.jpg"
+                }
+            },
+            {
+                "id": 206785,
+                "color": "#16181D",
+                "glassColor": "",
+                "colorID": 13488,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206785_bubble.png",
+                "productURL": "/john-jacobs-jj-e11540xs-c4-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 4900,
+                    "lkPrice": 4900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/206785/ios/sku_206785.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/206785/android/sku_206785.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gunmetal-black-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540xs-c4-eyeglasses_g_2643_02_21_23.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gunmetal-black-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540xs-c4-eyeglasses_g_2643_02_21_23.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gunmetal-black-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540xs-c4-eyeglasses_g_2643_02_21_23.jpg"
+                }
+            },
+            {
+                "id": 206784,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 13488,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206784_bubble.png",
+                "productURL": "/john-jacobs-jj-e11540xl-c3-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 4900,
+                    "lkPrice": 4900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/206784/ios/sku_206784.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/206784/android/sku_206784.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/johnjacobsjje11540xlc3eyeglasses_g_1339_09_03_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/johnjacobsjje11540xlc3eyeglasses_g_1339_09_03_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/johnjacobsjje11540xlc3eyeglasses_g_1339_09_03_2023.jpg"
+                }
+            },
+            {
+                "id": 201390,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 11378,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201390_bubble.png",
+                "productURL": "/john-jacobs-jj-e11540xs-c3-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 4900,
+                    "lkPrice": 4900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/201390/ios/sku_201390.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/201390/android/sku_201390.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gold-black-tortoise-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540xs-c3-eyeglasses_g_2754_11_10_2022.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gold-black-tortoise-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540xs-c3-eyeglasses_g_2754_11_10_2022.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gold-black-tortoise-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540xs-c3-eyeglasses_g_2754_11_10_2022.jpg"
+                }
+            },
+            {
+                "id": 221660,
+                "color": "#16181D",
+                "glassColor": "",
+                "colorID": 13488,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/221660_bubble.png",
+                "productURL": "/john-jacobs-jj-e11540xs-c4-eyeglasses-dup.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 4900,
+                    "lkPrice": 4900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/221660/ios/sku_221660.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/221660/android/sku_221660.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gunmetal-black-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540xs-c4-eyeglasses_g_2643_02_21_23.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gunmetal-black-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540xs-c4-eyeglasses_g_2643_02_21_23.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gunmetal-black-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540xs-c4-eyeglasses_g_2643_02_21_23.jpg"
+                }
+            },
+            {
+                "id": 147709,
+                "color": "#b87332",
+                "glassColor": "",
+                "colorID": 13488,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/147709_bubble.png",
+                "productURL": "/john-jacobs-jj-e11540-c4-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 5000,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": "https://lookr-static.lenskart.com/frameassets/147709/android/sku_147709.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-e11540-c4-eyeglasses_john-jacobs-jj-e11540-c4-eyeglasses_G_8568.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-e11540-c4-eyeglasses_john-jacobs-jj-e11540-c4-eyeglasses_G_8568.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-e11540-c4-eyeglasses_john-jacobs-jj-e11540-c4-eyeglasses_G_8568.jpg"
+                }
+            },
+            {
+                "id": 201388,
+                "color": "#b87332",
+                "glassColor": "",
+                "colorID": 20768,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201388_bubble.png",
+                "productURL": "/john-jacobs-jj-e11540-c6-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 4900,
+                    "lkPrice": 4900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/201388/ios/sku_201388.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/201388/android/sku_201388.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gunmetal--black-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540-c6-eyeglasses_g_7770_25_04_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gunmetal--black-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540-c6-eyeglasses_g_7770_25_04_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/gunmetal--black-full-rim-rectangle-john-jacobs-supreme-steel-jj-e11540-c6-eyeglasses_g_7770_25_04_2023.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "productName": "Lenskart Air",
+        "productModelName": "LA E14368",
+        "classification": "eyeframe",
+        "variations": [
+            {
+                "id": 150599,
+                "color": "#808080",
+                "glassColor": "",
+                "colorID": 22295,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150599_bubble.png",
+                "productURL": "/lenskart-air-la-e14368-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/150599/ios/sku_150599.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/150599/android/sku_150599.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/e/lenskart-air-la-e14368-c1-eyeglasses_G_0139.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/e/lenskart-air-la-e14368-c1-eyeglasses_G_0139.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/e/lenskart-air-la-e14368-c1-eyeglasses_G_0139.jpg"
+                }
+            },
+            {
+                "id": 150600,
+                "color": "#0000ff",
+                "glassColor": "",
+                "colorID": 19552,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150600_bubble.png",
+                "productURL": "/lenskart-air-la-e14368-c2-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/150600/ios/sku_150600.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/150600/android/sku_150600.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/e/lenskart-air-la-e14368-c2-eyeglasses_G_0126.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/e/lenskart-air-la-e14368-c2-eyeglasses_G_0126.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/e/lenskart-air-la-e14368-c2-eyeglasses_G_0126.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "productName": "Lenskart Air",
+        "productModelName": "LA E16940",
+        "classification": "eyeframe",
+        "variations": [
+            {
+                "id": 217077,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 11378,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/217077_bubble.png",
+                "productURL": "/lenskart-air-la-e16940-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/217077/ios/sku_217077.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/217077/android/sku_217077.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-full-rim-rectangle-lenskart-air-matte-essential-la-e16940-c1-eyesglasses_dsc_0758.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-full-rim-rectangle-lenskart-air-matte-essential-la-e16940-c1-eyesglasses_dsc_0758.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-full-rim-rectangle-lenskart-air-matte-essential-la-e16940-c1-eyesglasses_dsc_0758.jpg"
+                }
+            },
+            {
+                "id": 217078,
+                "color": "#0000ff",
+                "glassColor": "",
+                "colorID": 14338,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/217078_bubble.png",
+                "productURL": "/lenskart-air-la-e16940-c2-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/217078/ios/sku_217078.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/217078/android/sku_217078.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-full-rim-rectangle-lenskart-air-matte-essential-la-e16940-c2-eyesglasses_dsc_0732.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-full-rim-rectangle-lenskart-air-matte-essential-la-e16940-c2-eyesglasses_dsc_0732.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-full-rim-rectangle-lenskart-air-matte-essential-la-e16940-c2-eyesglasses_dsc_0732.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "productName": "Lenskart STUDIO",
+        "productModelName": "LK E17251",
+        "classification": "eyeframe",
+        "variations": []
+    },
+    {
+        "productName": "Vincent Chase",
+        "productModelName": "VC E13785",
+        "classification": "eyeframe",
+        "variations": [
+            {
+                "id": 146618,
+                "color": "#b87332",
+                "glassColor": "",
+                "colorID": 13488,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/146618_bubble.png",
+                "productURL": "/vincent-chase-vc-e13785-c2-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/146618/ios/sku_146618.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/146618/android/sku_146618.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13785-c2-eyeglasses_g_9157.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13785-c2-eyeglasses_g_9157.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13785-c2-eyeglasses_g_9157.jpg"
+                }
+            },
+            {
+                "id": 234791,
+                "color": "#ffd700",
+                "glassColor": "",
+                "colorID": 17293,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234791_bubble.png",
+                "productURL": "/vincent-chase-vc-e13785-n-gold-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-gold-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-eyeglasses__dsc1860_02_05_025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-gold-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-eyeglasses__dsc1860_02_05_025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-gold-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-eyeglasses__dsc1860_02_05_025.jpg"
+                }
+            },
+            {
+                "id": 211318,
+                "color": "#b87332",
+                "glassColor": "",
+                "colorID": 11507,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/211318_bubble.png",
+                "productURL": "/vincent-chase-vc-e13785-n-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/211318/ios/sku_211318.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/211318/android/sku_211318.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-black-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-n-c1-eyeglasses_img_3956_09_11_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-black-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-n-c1-eyeglasses_img_3956_09_11_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-black-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-n-c1-eyeglasses_img_3956_09_11_2023.jpg"
+                }
+            },
+            {
+                "id": 234804,
+                "color": "#c0c0c0",
+                "glassColor": "",
+                "colorID": 11507,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234804_bubble.png",
+                "productURL": "/vincent-chase-vc-e13785-n-silver-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-silver-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-eyeglasses__dsc1869_02_05_025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-silver-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-eyeglasses__dsc1869_02_05_025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-silver-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-eyeglasses__dsc1869_02_05_025.jpg"
+                }
+            },
+            {
+                "id": 234794,
+                "color": "#b76e79",
+                "glassColor": "",
+                "colorID": 16387,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234794_bubble.png",
+                "productURL": "/vincent-chase-vc-e13785-gold-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/rose-gold-full-rim-geometric-vincent-chase-metal-vc-e13785-eyeglasses__dsc9927_25_04_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/rose-gold-full-rim-geometric-vincent-chase-metal-vc-e13785-eyeglasses__dsc9927_25_04_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/rose-gold-full-rim-geometric-vincent-chase-metal-vc-e13785-eyeglasses__dsc9927_25_04_2025.jpg"
+                }
+            },
+            {
+                "id": 146617,
+                "color": "#ffd700",
+                "glassColor": "",
+                "colorID": 17293,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/146617_bubble.png",
+                "productURL": "/vincent-chase-vc-e13785-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/146617/ios/sku_146617.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/146617/android/sku_146617.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-c1-eyeglasses_gm_5965.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-c1-eyeglasses_gm_5965.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-full-rim-geometric-vincent-chase-sleek-steel-vc-e13785-c1-eyeglasses_gm_5965.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "productName": "Lenskart STUDIO",
+        "productModelName": "LK E16515",
+        "classification": "eyeframe",
+        "variations": []
+    },
+    {
+        "productName": "Lenskart Air",
+        "productModelName": "LA E17594",
+        "classification": "eyeframe",
+        "variations": [
+            {
+                "id": 223952,
+                "color": "#808080",
+                "glassColor": "",
+                "colorID": 27643,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/223952_bubble.png",
+                "productURL": "/lenskart-air-la-e17594-c2-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/223952/ios/sku_223952.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/223952/android/sku_223952.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e17594-c2-eyeglasses_dsc5774_23_11_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e17594-c2-eyeglasses_dsc5774_23_11_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e17594-c2-eyeglasses_dsc5774_23_11_2024.jpg"
+                }
+            },
+            {
+                "id": 223951,
+                "color": "#a52a2a",
+                "glassColor": "",
+                "colorID": 27682,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/223951_bubble.png",
+                "productURL": "/lenskart-air-la-e17594-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/223951/ios/sku_223951.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/223951/android/sku_223951.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e17594-c1-eyeglasses_dsc5693_23_11_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e17594-c1-eyeglasses_dsc5693_23_11_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e17594-c1-eyeglasses_dsc5693_23_11_2024.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "productName": "John Jacobs",
+        "productModelName": "JJ E16436",
+        "classification": "eyeframe",
+        "variations": [
+            {
+                "id": 212737,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 11378,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212737_bubble.png",
+                "productURL": "/john-jacobs-jj-e16436-c3-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 4900,
+                    "lkPrice": 4900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/212737/ios/sku_212737.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/212737/android/sku_212737.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16436-c3-eyeglasses_img_0225_26_10_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16436-c3-eyeglasses_img_0225_26_10_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16436-c3-eyeglasses_img_0225_26_10_2023.jpg"
+                }
+            },
+            {
+                "id": 212736,
+                "color": "#f1f1f1",
+                "glassColor": "",
+                "colorID": 27635,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212736_bubble.png",
+                "productURL": "/john-jacobs-jj-e16436-c2-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 5000,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/212736/ios/sku_212736.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/212736/android/sku_212736.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16436-c2-eyeglasses_img_0205_26_10_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16436-c2-eyeglasses_img_0205_26_10_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16436-c2-eyeglasses_img_0205_26_10_2023.jpg"
+                }
+            },
+            {
+                "id": 212735,
+                "color": "#0000ff",
+                "glassColor": "",
+                "colorID": 14338,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/212735_bubble.png",
+                "productURL": "/john-jacobs-jj-e16436-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 5000,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/212735/ios/sku_212735.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/212735/android/sku_212735.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16436-c1-eyeglasses_img_0215_26_10_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16436-c1-eyeglasses_img_0215_26_10_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16436-c1-eyeglasses_img_0215_26_10_2023.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "productName": "Vincent Chase",
+        "productModelName": "VC E13634",
+        "classification": "eyeframe",
+        "variations": [
+            {
+                "id": 201315,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 13488,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201315_bubble.png",
+                "productURL": "/vincent-chase-vc-e13634-c7-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/201315/ios/sku_201315.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/201315/android/sku_201315.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/black-silver-full-rim-geometric-vincent-chase-sleek-steel-vc-e13634-c7-eyeglasses_g_4950_03_01_23.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/black-silver-full-rim-geometric-vincent-chase-sleek-steel-vc-e13634-c7-eyeglasses_g_4950_03_01_23.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/black-silver-full-rim-geometric-vincent-chase-sleek-steel-vc-e13634-c7-eyeglasses_g_4950_03_01_23.jpg"
+                }
+            },
+            {
+                "id": 234786,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 11378,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234786_bubble.png",
+                "productURL": "/vincent-chase-vc-e13634-black-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-geometric-vincent-chase-metal-vc-e13634-eyeglasses__dsc9897_25_04_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-geometric-vincent-chase-metal-vc-e13634-eyeglasses__dsc9897_25_04_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-geometric-vincent-chase-metal-vc-e13634-eyeglasses__dsc9897_25_04_2025.jpg"
+                }
+            },
+            {
+                "id": 218977,
+                "color": "#281C02",
+                "glassColor": "",
+                "colorID": 11378,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/218977_bubble.png",
+                "productURL": "/vincent-chase-vc-e13634-n-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/218977/ios/sku_218977.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/218977/android/sku_218977.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-black-gold-full-rim-geometric-vincent-chase-sleek-steel-vc-e13634-n-c1-eyeglasses__dsc9016_05_07_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-black-gold-full-rim-geometric-vincent-chase-sleek-steel-vc-e13634-n-c1-eyeglasses__dsc9016_05_07_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-black-gold-full-rim-geometric-vincent-chase-sleek-steel-vc-e13634-n-c1-eyeglasses__dsc9016_05_07_2024.jpg"
+                }
+            },
+            {
+                "id": 225333,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 11378,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/225333_bubble.png",
+                "productURL": "/vincent-chase-vc-e13634-c9-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/225333/ios/sku_225333.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/225333/android/sku_225333.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-geometric-vincent-chase-sleek-steel-vc-e13634-c9-eyeglasses__dsc8320_03_09_2024.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-geometric-vincent-chase-sleek-steel-vc-e13634-c9-eyeglasses__dsc8320_03_09_2024.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-geometric-vincent-chase-sleek-steel-vc-e13634-c9-eyeglasses__dsc8320_03_09_2024.jpg"
+                }
+            },
+            {
+                "id": 234782,
+                "color": "#c0c0c0",
+                "glassColor": "",
+                "colorID": 11507,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/234782_bubble.png",
+                "productURL": "/vincent-chase-vc-e13634-dark-gunmetal-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": null,
+                    "android": null
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13634-dark-gunmetal-eyeglasses__dsc9906_24_04_2025.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13634-dark-gunmetal-eyeglasses__dsc9906_24_04_2025.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13634-dark-gunmetal-eyeglasses__dsc9906_24_04_2025.jpg"
+                }
+            },
+            {
+                "id": 145567,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 11378,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/145567_bubble.png",
+                "productURL": "/vincent-chase-vc-e13634-full-rim-rectangle-metal-steel-escobar-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 1900,
+                    "lkPrice": 1900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/145567/ios/sku_145567.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/145567/android/sku_145567.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13634-ful-ram-ale-metl-stlbr-c1-eyeglasaas_g_4923.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13634-ful-ram-ale-metl-stlbr-c1-eyeglasaas_g_4923.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13634-ful-ram-ale-metl-stlbr-c1-eyeglasaas_g_4923.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "productName": "John Jacobs",
+        "productModelName": "JJ E16146",
+        "classification": "eyeframe",
+        "variations": [
+            {
+                "id": 211282,
+                "color": "#808080",
+                "glassColor": "",
+                "colorID": 22295,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/211282_bubble.png",
+                "productURL": "/john-jacobs-jj-e16146-c2-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 3900,
+                    "lkPrice": 3900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/211282/ios/sku_211282.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/211282/android/sku_211282.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16146-c2-eyeglasses_img_0172_26_10_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16146-c2-eyeglasses_img_0172_26_10_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16146-c2-eyeglasses_img_0172_26_10_2023.jpg"
+                }
+            },
+            {
+                "id": 211281,
+                "color": "#ed7e07",
+                "glassColor": "",
+                "colorID": 11386,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/211281_bubble.png",
+                "productURL": "/john-jacobs-jj-e16146-c1-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 4000,
+                    "lkPrice": 1550,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/211281/ios/sku_211281.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/211281/android/sku_211281.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16146-c1-eyeglasses_img_0188_26_10_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16146-c1-eyeglasses_img_0188_26_10_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16146-c1-eyeglasses_img_0188_26_10_2023.jpg"
+                }
+            },
+            {
+                "id": 211284,
+                "color": "#000000",
+                "glassColor": "",
+                "colorID": 11378,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/211284_bubble.png",
+                "productURL": "/john-jacobs-jj-e16146-c4-eyeglasses.html",
+                "price": {
+                    "currency": "INR",
+                    "basePrice": 3900,
+                    "lkPrice": 3900,
+                    "symbol": "\u20b9"
+                },
+                "arModel": {
+                    "ios": "https://lookr-static.lenskart.com/frameassets/211284/ios/sku_211284.scn",
+                    "android": "https://lookr-static.lenskart.com/frameassets/211284/android/sku_211284.glb"
+                },
+                "productImage": {
+                    "url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16146-c4-eyeglasses_img_0196_26_10_2023.jpg",
+                    "frontURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16146-c4-eyeglasses_img_0196_26_10_2023.jpg",
+                    "hoverURL": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16146-c4-eyeglasses_img_0196_26_10_2023.jpg"
+                }
+            }
+        ]
+    }
+]
